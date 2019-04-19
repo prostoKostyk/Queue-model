@@ -1,0 +1,85 @@
+.text{  
+    position: absolute;
+left: 50%;
+}
+.text2{  
+    position: absolute;
+    top:330px;
+left: 50%;
+}
+.btn{
+position: absolute;
+top: 371px;
+left: 55%;
+}
+body {    
+     padding: 2em;
+     padding: 0;
+     margin: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;       
+     }
+.container1 {     
+    width: 10px;
+    height: 600px;
+       } 
+       .container2 {     
+    width: 10px;
+    height: 600px;;
+       }
+        .container3 {     
+    width: 10px;
+    height: 600px;;
+       }
+    
+     .user1 {
+  width: 60px;
+    height: 65px;
+    position: absolute;
+    //left: 625px;
+    //top: 265px;      
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-image:url(user1.jpg);
+    //text-shadow: 3px 3px 4px white;
+     }
+      .user2 {
+  width: 60px;
+    height: 65px;
+    position: absolute;
+    //left: 625px;
+    //top: 265px;      
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-image:url(user1.jpg);
+    //text-shadow: 3px 3px 4px white;
+     }
+
+.station { 
+    width: 88px;
+    height: 65px;
+    position: absolute;
+    text-align: center;
+    font-size: 14px;
+    background: #186663;    
+    color: black;
+    font-weight: bold;
+    background-image:url(station.png);
+}
+.station2 { 
+    width: 88px;
+    height: 65px;
+    position: absolute;
+    text-align: center;
+    font-size: 14px;
+    background: #186663;    
+    color: black;
+    font-weight: bold;
+    background-image:url(station.png);
+    top: 145px;
+    right: 352px;
+}
+
